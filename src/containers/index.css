@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans','Helvetica','Verdana',sans-serif;
+}
+.page-title{
+  margin: 20px;
+  padding-bottom: 20px;
+  font-size: 36px;
+  color: #007FA3;
+}
